@@ -68,7 +68,7 @@ export default function Home() {
           download: true,
           header: true,
           skipEmptyLines: true,
-          complete: (result) => {
+          complete: (result: any) => {
             // eslint-disable-next-line @typescript-eslint/no-explicit-any
             const parsed: Student[] = (result.data as any[]).map((row) => {
               const rec: Student = {
