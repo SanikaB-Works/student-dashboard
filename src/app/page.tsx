@@ -23,6 +23,8 @@ type Student = {
 };
 
 type SortConfig = { key: keyof Student; direction: "asc" | "desc" } | null;
+type CsvRow = Record<string, string>;
+type PapaParseResult<T> = { data: T[] };
 
 function computeCorrelation(a: number[], b: number[]): number {
   const n = Math.min(a.length, b.length);
@@ -68,9 +70,8 @@ export default function Home() {
           download: true,
           header: true,
           skipEmptyLines: true,
-          complete: (result: any) => {
-            // eslint-disable-next-line @typescript-eslint/no-explicit-any
-            const parsed: Student[] = (result.data as any[]).map((row) => {
+          complete: (result: PapaParseResult<CsvRow>) => {
+            const parsed: Student[] = (result.data as CsvRow[]).map((row) => {
               const rec: Student = {
                 student_id: String(row.student_id ?? ""),
                 name: String(row.name ?? ""),
