@@ -1,0 +1,201 @@
+student_id,name,class,comprehension,attention,focus,retention,assessment_score,engagement_time,persona
+1,Paul Ward,D,41,41,77,66,56,95,Active but Forgetful
+2,Omar Jimenez,D,41,79,78,50,53,54,Active but Forgetful
+3,James Larson,C,95,69,69,91,85,77,Independent Learner
+4,Michael Roberts,B,84,64,51,86,78,97,Independent Learner
+5,Rachael Burns,D,79,71,68,42,60,60,Engaged Achiever
+6,Mark Wright,C,41,97,46,57,60,119,Active but Forgetful
+7,Danielle Howard,D,68,72,85,84,80,105,Active but Forgetful
+8,Kaitlyn Fuller,C,61,78,61,93,73,47,Independent Learner
+9,Garrett Zamora,B,52,96,79,95,78,88,Active but Forgetful
+10,Mr. Eric Lane,D,49,92,55,48,68,113,Active but Forgetful
+11,Diana Franco,D,88,51,57,99,72,80,Independent Learner
+12,James Gonzales,C,90,94,86,89,81,38,Independent Learner
+13,Holly Scott,B,88,48,37,94,67,73,Independent Learner
+14,Anna Harris,D,48,35,67,77,57,88,Active but Forgetful
+15,Brittany Lucas,B,92,93,40,68,74,21,Independent Learner
+16,Todd Lane,A,42,47,86,100,57,11,Needs Guidance
+17,Regina Garcia,A,42,82,62,84,64,43,Active but Forgetful
+18,Mary Martinez,D,74,88,70,89,71,53,Independent Learner
+19,Kevin Williams,B,48,31,85,86,59,50,Needs Guidance
+20,Zachary Gould,B,53,58,47,63,61,102,Active but Forgetful
+21,Jeffery Lee,D,100,62,83,59,85,119,Engaged Achiever
+22,Jacob Rice,C,47,48,84,52,64,102,Active but Forgetful
+23,Sarah Stuart,B,100,68,100,50,80,72,Engaged Achiever
+24,Mr. Daniel Dawson,C,76,78,50,41,54,22,Engaged Achiever
+25,Ronald Barrett,C,44,73,73,71,56,53,Active but Forgetful
+26,Jeff Weaver,A,56,71,97,48,70,109,Active but Forgetful
+27,Margaret Johnson,B,45,68,72,73,65,69,Active but Forgetful
+28,Kevin Monroe,C,50,41,70,80,65,94,Active but Forgetful
+29,Regina Jones,D,56,56,42,76,53,14,Needs Guidance
+30,David Hubbard,B,83,72,50,67,71,56,Engaged Achiever
+31,John Baxter,A,83,33,38,47,58,116,Engaged Achiever
+32,Diana Lopez,D,40,61,36,86,46,21,Needs Guidance
+33,David Harvey,B,63,49,75,74,61,24,Needs Guidance
+34,Heather Thomas,D,66,73,83,80,65,13,Needs Guidance
+35,John Mccoy,D,59,48,59,43,58,100,Engaged Achiever
+36,Jordan Jackson,C,47,69,58,61,62,72,Active but Forgetful
+37,Matthew Payne,B,67,92,59,100,72,32,Independent Learner
+38,Thomas Jones,C,52,63,63,57,61,108,Active but Forgetful
+39,Ashley Jimenez,B,86,88,75,83,75,51,Independent Learner
+40,Kathleen Barnes,C,92,54,95,91,78,59,Independent Learner
+41,Lynn Robinson,C,87,46,72,87,75,103,Independent Learner
+42,Jane Francis,A,79,61,60,62,69,87,Engaged Achiever
+43,Vincent Smith,D,98,77,65,52,78,110,Engaged Achiever
+44,Patrick Thompson,C,40,89,56,81,60,95,Active but Forgetful
+45,Stephanie Watson,B,90,37,96,61,74,60,Needs Guidance
+46,Daniel Jennings,C,97,86,62,58,80,108,Engaged Achiever
+47,Kathleen Weiss,A,75,38,43,43,55,62,Engaged Achiever
+48,Mary Ramirez,D,71,56,95,43,63,59,Active but Forgetful
+49,Christopher Miller,C,58,85,76,81,68,78,Active but Forgetful
+50,Paul Hill,D,65,83,86,60,72,78,Active but Forgetful
+51,Andrew Holden,D,95,45,69,70,69,97,Engaged Achiever
+52,Sabrina Riley,C,40,61,35,58,41,24,Needs Guidance
+53,Timothy Manning,A,87,77,48,65,64,25,Independent Learner
+54,James Potter,A,84,49,42,40,58,90,Engaged Achiever
+55,Haley Boyer,D,93,51,91,91,86,91,Independent Learner
+56,Jennifer Martin,B,75,66,36,94,66,58,Independent Learner
+57,Stacey Rodriguez,C,78,90,76,83,72,47,Independent Learner
+58,Nicholas Peterson,B,94,77,39,80,72,89,Independent Learner
+59,Kendra Thornton,B,61,67,51,72,64,85,Active but Forgetful
+60,Dr. Rebecca Matthews,D,74,80,86,72,70,34,Independent Learner
+61,Stephanie Saunders,A,87,42,76,71,68,49,Needs Guidance
+62,Taylor Lawrence,A,76,94,88,83,80,74,Independent Learner
+63,Collin Perez,C,61,31,62,86,55,68,Needs Guidance
+64,Dawn Joseph,B,69,50,70,56,58,92,Engaged Achiever
+65,Tanner Lopez,D,92,83,70,42,78,105,Engaged Achiever
+66,Jeremy Le,D,96,57,49,42,63,62,Engaged Achiever
+67,Gary Olson,C,52,84,90,94,77,93,Active but Forgetful
+68,Samuel Strickland,C,55,36,82,67,62,104,Active but Forgetful
+69,Kerry Rivera,A,64,52,87,60,65,119,Active but Forgetful
+70,Ronald Hobbs,C,78,80,43,57,69,63,Engaged Achiever
+71,Ashley Stephens,C,66,35,56,62,50,26,Needs Guidance
+72,Gina Jacobs,D,66,62,83,46,69,106,Active but Forgetful
+73,Beth Ramos,D,76,82,42,90,72,72,Independent Learner
+74,Joshua Garcia,A,67,97,36,62,60,29,Independent Learner
+75,Abigail Wolf,D,73,42,49,63,60,68,Engaged Achiever
+76,Jennifer Dean,A,84,46,100,85,76,44,Needs Guidance
+77,Courtney Ibarra,B,40,75,57,54,57,97,Active but Forgetful
+78,Rose Jackson,D,41,67,44,86,58,67,Active but Forgetful
+79,Patrick Saunders,D,51,73,74,91,65,18,Needs Guidance
+80,Anthony Stephens,C,49,47,83,57,57,45,Needs Guidance
+81,Joshua Davis,A,79,89,87,80,81,56,Independent Learner
+82,Sharon Petersen,D,62,91,57,45,62,87,Active but Forgetful
+83,Austin Hernandez,A,68,34,85,45,54,34,Needs Guidance
+84,Brian Sanchez,A,65,35,55,76,54,22,Needs Guidance
+85,Ashley Pena,D,95,38,96,68,71,25,Needs Guidance
+86,Kaitlin Wilson,C,54,86,61,62,68,62,Active but Forgetful
+87,Jennifer Howard,B,60,89,62,100,80,87,Independent Learner
+88,Chelsea Williams,C,93,95,90,61,84,33,Independent Learner
+89,Heather Jones,C,73,63,68,56,65,57,Engaged Achiever
+90,Olivia Wood,B,66,96,69,97,72,30,Independent Learner
+91,Jennifer Whitaker,B,95,48,53,40,63,53,Engaged Achiever
+92,Mary Acevedo,B,98,51,62,52,67,45,Engaged Achiever
+93,Howard Young,A,63,45,91,59,62,48,Needs Guidance
+94,Bryan Nichols,B,73,37,75,52,60,11,Needs Guidance
+95,Kevin Hodges,D,89,49,92,70,70,32,Needs Guidance
+96,Christopher Valenzuela,A,58,48,61,55,53,20,Needs Guidance
+97,Lauren Gonzales,A,98,53,54,99,79,86,Independent Learner
+98,Richard Davidson,B,80,35,69,41,66,97,Engaged Achiever
+99,David Wheeler,D,45,69,73,62,50,14,Needs Guidance
+100,Daniel Baker,B,59,83,49,87,61,29,Independent Learner
+101,David Sims,D,73,70,74,66,68,88,Active but Forgetful
+102,Valerie Graham,C,86,40,67,73,62,39,Needs Guidance
+103,Kevin Callahan,D,58,98,75,69,76,85,Active but Forgetful
+104,Jonathan Brown,B,53,79,78,53,64,78,Active but Forgetful
+105,Erica Mcdaniel,D,42,37,78,92,57,50,Needs Guidance
+106,Bethany Lambert,B,63,52,89,95,73,103,Active but Forgetful
+107,Joseph Smith,B,85,87,77,49,73,113,Engaged Achiever
+108,Shelby Martinez,B,43,80,55,73,61,113,Active but Forgetful
+109,Annette Carr,D,70,100,47,74,68,66,Independent Learner
+110,Albert Oliver,B,67,32,66,94,59,63,Needs Guidance
+111,George Olson,A,60,73,35,51,51,44,Engaged Achiever
+112,Samuel Black,D,78,89,43,54,69,64,Engaged Achiever
+113,Robert Hinton,C,90,63,94,91,74,15,Needs Guidance
+114,Joseph Johnson,A,75,43,64,55,61,104,Engaged Achiever
+115,Denise Munoz,D,87,40,51,79,72,95,Engaged Achiever
+116,Tiffany Friedman,B,46,48,37,59,46,57,Engaged Achiever
+117,Nicole Mcdonald,A,44,100,94,73,66,18,Active but Forgetful
+118,Barry Benton,B,57,91,57,69,63,85,Active but Forgetful
+119,Dustin Berry,B,85,67,55,40,66,101,Engaged Achiever
+120,Lisa Wilson,D,87,62,58,88,65,36,Independent Learner
+121,Howard Leonard,C,99,71,63,56,73,47,Engaged Achiever
+122,Jenna Davis,D,75,81,98,73,83,72,Active but Forgetful
+123,Valerie Bowman,B,93,46,74,66,69,103,Engaged Achiever
+124,Kelly Whitaker,C,53,97,44,94,66,51,Independent Learner
+125,Jessica Nelson,B,64,68,61,47,61,51,Engaged Achiever
+126,Aimee Mcclain,C,56,48,96,67,64,91,Active but Forgetful
+127,Stephanie Williams,A,91,46,97,90,79,41,Needs Guidance
+128,Christopher Smith,A,68,87,43,58,63,78,Engaged Achiever
+129,Steven Miller,A,60,53,76,98,69,14,Needs Guidance
+130,Anna Johnson,D,91,77,47,92,75,15,Independent Learner
+131,Tricia Smith,C,91,93,42,93,79,95,Independent Learner
+132,Andrew Rogers,A,68,57,42,71,67,113,Engaged Achiever
+133,John Klein,A,84,41,37,65,61,105,Engaged Achiever
+134,Bruce Atkins,A,53,44,80,93,62,21,Needs Guidance
+135,Stacey Mullins,C,82,50,82,85,65,13,Needs Guidance
+136,Kirk Johnson,D,94,48,85,58,75,91,Engaged Achiever
+137,Peter Carr,C,100,74,74,58,82,94,Engaged Achiever
+138,Lauren Jackson MD,C,58,32,51,41,40,23,Needs Guidance
+139,Isaiah Cline,A,81,99,69,54,76,85,Engaged Achiever
+140,Bryan Holt,A,73,95,68,84,72,30,Independent Learner
+141,Carl Daniels,B,67,31,83,91,65,97,Needs Guidance
+142,Kevin Wilson,A,87,65,51,51,59,15,Engaged Achiever
+143,Travis Dalton,D,64,78,80,73,75,80,Active but Forgetful
+144,Shirley Cole,D,58,30,99,44,54,80,Active but Forgetful
+145,Maria Johnson,D,68,89,43,49,65,68,Engaged Achiever
+146,Howard Grant,A,58,99,37,82,67,36,Independent Learner
+147,Paul Green,C,44,73,99,92,70,64,Active but Forgetful
+148,Eric Chapman,A,66,81,40,46,58,33,Engaged Achiever
+149,Margaret Thomas,A,58,100,86,49,69,76,Active but Forgetful
+150,Angela Williams,B,94,81,91,83,91,91,Independent Learner
+151,Miranda Torres,A,71,95,61,70,76,80,Independent Learner
+152,Jeremy Nichols,B,85,91,97,80,89,119,Active but Forgetful
+153,Joseph Martin,B,42,32,89,46,55,105,Active but Forgetful
+154,Kyle Warner,C,52,51,49,52,58,91,Engaged Achiever
+155,Amanda Johnson DDS,C,44,45,62,83,49,11,Needs Guidance
+156,Jennifer Mitchell,C,59,80,43,72,62,98,Active but Forgetful
+157,Brittany Delgado,C,94,90,48,62,73,100,Engaged Achiever
+158,Rodney Kelly,C,52,85,89,55,72,109,Active but Forgetful
+159,Patricia Bauer MD,A,88,35,73,69,73,115,Engaged Achiever
+160,Sean Gates,B,77,63,65,59,72,114,Engaged Achiever
+161,Caitlin Williams,A,57,44,84,93,63,31,Needs Guidance
+162,Anne Mendoza,A,79,68,56,42,64,97,Engaged Achiever
+163,Jeffrey Wells,C,67,95,66,60,65,72,Active but Forgetful
+164,Mrs. Stephanie Shaw,B,83,85,76,52,70,52,Engaged Achiever
+165,Benjamin Moore,A,80,78,79,79,78,38,Independent Learner
+166,John Jackson,B,100,36,43,40,58,82,Engaged Achiever
+167,Jeffrey Kirk,C,52,71,43,92,62,25,Needs Guidance
+168,Jessica Allen,A,58,50,89,55,58,87,Active but Forgetful
+169,Stephanie Gonzales,A,56,54,53,84,59,19,Needs Guidance
+170,Kristin Boyd,D,48,48,91,71,70,117,Active but Forgetful
+171,Emma Paul,A,40,64,69,99,63,18,Needs Guidance
+172,Bridget Johnson,C,85,91,90,97,91,96,Independent Learner
+173,Thomas Palmer,D,100,32,43,57,61,40,Engaged Achiever
+174,Gabrielle Herrera,D,97,98,89,80,85,39,Independent Learner
+175,Matthew Lopez,A,82,70,96,41,72,111,Active but Forgetful
+176,Meghan Robinson,A,69,64,53,46,57,33,Engaged Achiever
+177,Erik Fisher,C,48,61,69,74,59,45,Needs Guidance
+178,Melinda Sutton,C,80,91,48,94,71,47,Independent Learner
+179,Jasmine Pugh,A,46,88,69,94,66,22,Independent Learner
+180,Catherine Perry,B,52,68,99,48,68,85,Active but Forgetful
+181,Daniel Lloyd,D,95,67,90,91,78,57,Independent Learner
+182,Paula Jimenez,A,88,50,48,48,58,22,Engaged Achiever
+183,Christina Buck,B,59,90,45,61,65,81,Active but Forgetful
+184,Rachel Williams,D,90,97,97,68,90,117,Active but Forgetful
+185,Eric Gonzalez,A,55,52,70,82,67,98,Active but Forgetful
+186,Brandon Ellis,D,96,84,74,87,77,13,Independent Learner
+187,Travis Sullivan,C,86,84,44,86,76,51,Independent Learner
+188,Mrs. Latasha Marshall,A,84,86,40,98,80,83,Independent Learner
+189,Matthew Wise,D,83,82,35,59,66,52,Engaged Achiever
+190,Richard Zuniga,C,42,39,40,50,48,93,Engaged Achiever
+191,Joseph Mcmillan,A,81,33,48,70,65,116,Engaged Achiever
+192,Jason Allen,C,69,47,58,69,60,28,Needs Guidance
+193,Mrs. Lorraine Faulkner MD,D,86,77,38,95,75,39,Independent Learner
+194,Roger Jones,C,65,87,82,71,68,71,Active but Forgetful
+195,Rachael Dean,B,92,85,39,48,64,71,Engaged Achiever
+196,Dr. Jessica Bailey,A,81,48,70,90,68,60,Needs Guidance
+197,Margaret Cruz,A,93,89,65,96,82,41,Independent Learner
+198,Adam Mayer,A,77,58,57,59,68,103,Engaged Achiever
+199,Russell Barrera,D,87,77,60,41,68,88,Engaged Achiever
+200,Anthony Powers,C,65,81,97,83,75,102,Active but Forgetful
