@@ -1,5 +1,10 @@
 ## Cognitive Skills & Student Performance Dashboard
 
+Links:
+
+- Live demo: `https://student-dashboard-p8rrti02b-sanikas-projects-7dadebd0.vercel.app`
+- GitHub repo: `https://github.com/SanikaB-Works/student-dashboard`
+
 An interactive dashboard and notebook for analyzing how student cognitive skills relate to performance. The project:
 
 - Loads a synthetic dataset of students and cognitive skills
@@ -70,6 +75,21 @@ Then open `http://localhost:3000`.
 - Personas: if `synthetic_students_with_personas.csv` exists, it is used; otherwise personas are inferred on the client
 
 
+## Screenshots
+
+Overview + Insights
+
+![Overview and Insights](docs/overview_insights.png)
+
+Charts (Bar + Scatter)
+
+![Charts](docs/charts.png)
+
+Radar + Student Table
+
+![Radar and Table](docs/radar_table.png)
+
+
 ## Notebook (Analysis, ML, Clustering)
 
 Open and run `notebooks/student_analysis.ipynb`. It performs:
@@ -101,11 +121,15 @@ git init
 git add .
 git commit -m "Cognitive Skills & Student Performance Dashboard"
 git branch -M main
-git remote add origin https://github.com/<your-username>/student-dashboard.git
+git remote add origin https://github.com/SanikaB-Works/student-dashboard.git
 git push -u origin main
 ```
 
 2) Import the repo in Vercel and deploy (or use CLI `vercel && vercel --prod`). Ensure `public/synthetic_students_with_personas.csv` is committed if you want personas live.
+
+After deploy, your site should be available at:
+
+`https://student-dashboard-p8rrti02b-sanikas-projects-7dadebd0.vercel.app`
 
 
 ## Deliverables Checklist
