@@ -69,6 +69,7 @@ export default function Home() {
           header: true,
           skipEmptyLines: true,
           complete: (result) => {
+            // eslint-disable-next-line @typescript-eslint/no-explicit-any
             const parsed: Student[] = (result.data as any[]).map((row) => {
               const rec: Student = {
                 student_id: String(row.student_id ?? ""),
